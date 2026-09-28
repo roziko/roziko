@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="306" viewBox="0 0 760 306" role="img" aria-labelledby="t d">
+<title id="t">roziko: building tools around Claude Code</title>
+<desc id="d">A terminal runs Claude Code. A request to make the session status easier to read is typed, then tool calls appear and the session finishes with its time, context, cache and cost.</desc>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace;font-size:15px}
+@keyframes s0{0%,2.35%{opacity:0}2.41%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l0{animation:s0 17s linear infinite}
+@keyframes c0{0%,2.35%{transform:translateX(0)}2.87%{transform:translateX(9.0px)}3.38%{transform:translateX(18.0px)}3.90%{transform:translateX(27.0px)}4.41%{transform:translateX(36.0px)}4.93%{transform:translateX(45.0px)}5.44%{transform:translateX(54.0px)}5.96%{transform:translateX(63.0px)}6.47%{transform:translateX(72.0px)}100%{transform:translateX(72.0px)}}.c0{animation:c0 17s steps(1,end) infinite}
+@keyframes k0{0%,2.35%{opacity:0}2.41%,6.47%{opacity:1}8.24%,100%{opacity:0}}.k0{animation:k0 17s linear infinite}
+@keyframes s1{0%,8.24%{opacity:0}9.71%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l1{animation:s1 17s linear infinite}
+@keyframes s2{0%,12.94%{opacity:0}13.00%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l2{animation:s2 17s linear infinite}
+@keyframes c2{0%,12.94%{transform:translateX(0)}13.22%{transform:translateX(9.0px)}13.50%{transform:translateX(18.0px)}13.78%{transform:translateX(27.0px)}14.06%{transform:translateX(36.0px)}14.34%{transform:translateX(45.0px)}14.62%{transform:translateX(54.0px)}14.90%{transform:translateX(63.0px)}15.18%{transform:translateX(72.0px)}15.46%{transform:translateX(81.0px)}15.74%{transform:translateX(90.0px)}16.01%{transform:translateX(99.0px)}16.29%{transform:translateX(108.0px)}16.57%{transform:translateX(117.0px)}16.85%{transform:translateX(126.0px)}17.13%{transform:translateX(135.0px)}17.41%{transform:translateX(144.0px)}17.69%{transform:translateX(153.0px)}17.97%{transform:translateX(162.0px)}18.25%{transform:translateX(171.0px)}18.53%{transform:translateX(180.0px)}18.81%{transform:translateX(189.0px)}19.09%{transform:translateX(198.0px)}19.37%{transform:translateX(207.0px)}19.65%{transform:translateX(216.0px)}19.93%{transform:translateX(225.0px)}20.21%{transform:translateX(234.0px)}20.49%{transform:translateX(243.0px)}20.76%{transform:translateX(252.0px)}21.04%{transform:translateX(261.0px)}21.32%{transform:translateX(270.0px)}21.60%{transform:translateX(279.0px)}21.88%{transform:translateX(288.0px)}22.16%{transform:translateX(297.0px)}22.44%{transform:translateX(306.0px)}22.72%{transform:translateX(315.0px)}23.00%{transform:translateX(324.0px)}23.28%{transform:translateX(333.0px)}23.56%{transform:translateX(342.0px)}23.84%{transform:translateX(351.0px)}24.12%{transform:translateX(360.0px)}100%{transform:translateX(360.0px)}}.c2{animation:c2 17s steps(1,end) infinite}
+@keyframes k2{0%,12.94%{opacity:0}13.00%,24.12%{opacity:1}25.88%,100%{opacity:0}}.k2{animation:k2 17s linear infinite}
+@keyframes s3{0%,27.06%{opacity:0}28.53%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l3{animation:s3 17s linear infinite}
+@keyframes s4{0%,34.12%{opacity:0}35.59%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l4{animation:s4 17s linear infinite}
+@keyframes s5{0%,40.59%{opacity:0}42.06%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l5{animation:s5 17s linear infinite}
+@keyframes s6{0%,45.29%{opacity:0}46.76%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l6{animation:s6 17s linear infinite}
+@keyframes s7{0%,52.35%{opacity:0}53.82%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l7{animation:s7 17s linear infinite}
+@keyframes s8{0%,60.59%{opacity:0}62.06%,90.59%{opacity:1}95.29%,100%{opacity:0}}.l8{animation:s8 17s linear infinite}
+@keyframes pr{0%,64.12%{opacity:0}65.29%,90.59%{opacity:1}95.29%,100%{opacity:0}}.pr{animation:pr 17s linear infinite}
+@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}.bl{animation:bl 1.1s steps(1,end) infinite}
+@media (prefers-reduced-motion:reduce){.l0,.l1,.l2,.l3,.l4,.l5,.l6,.l7,.l8,.pr{animation:none!important;opacity:1!important}[class^=c]{animation:none!important;transform:translateX(2000px)!important}[class^=k]{display:none}}
+</style>
+<rect x=".5" y=".5" width="759" height="305" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M.5 10.5a10 10 0 0 1 10-10h739a10 10 0 0 1 10 10v24h-759z" fill="#161b22"/>
+<line x1=".5" y1="34.5" x2="759.5" y2="34.5" stroke="#30363d"/>
+<circle cx="20" cy="17.5" r="6" fill="#ff5f57"/><circle cx="40" cy="17.5" r="6" fill="#febc2e"/><circle cx="60" cy="17.5" r="6" fill="#28c840"/>
+<text x="380" y="22" text-anchor="middle" style="font-size:12px" fill="#8b949e">roziko — claude</text>
+<g class="l0"><text x="28" y="64" xml:space="preserve"><tspan fill="#7ee787">$ </tspan><tspan fill="#e6edf3">claude</tspan></text><g class="c0"><rect x="28" y="49" width="90.0" height="22" fill="#0d1117"/><rect class="k0" x="28" y="51" width="9.0" height="18" fill="#e6edf3" opacity=".8"/></g></g>
+<g class="l1"><text x="28" y="90" xml:space="preserve"><tspan fill="#d97757">✻ </tspan><tspan fill="#8b949e">Welcome to Claude Code</tspan></text></g>
+<g class="l2"><text x="28" y="116" xml:space="preserve"><tspan fill="#d2a8ff">&gt; </tspan><tspan fill="#e6edf3">make the session status easier to read</tspan></text><g class="c2"><rect x="28" y="101" width="378.0" height="22" fill="#0d1117"/><rect class="k2" x="28" y="103" width="9.0" height="18" fill="#e6edf3" opacity=".8"/></g></g>
+<g class="l3"><text x="28" y="142" xml:space="preserve"><tspan fill="#8b949e">● </tspan><tspan fill="#8b949e">Thinking…</tspan></text></g>
+<g class="l4"><text x="28" y="168" xml:space="preserve"><tspan fill="#79c0ff">● </tspan><tspan fill="#79c0ff">Bash  </tspan><tspan fill="#e6edf3">npm test</tspan></text></g>
+<g class="l5"><text x="298" y="168" xml:space="preserve"><tspan fill="#3fb950">✓ 48 passed</tspan></text></g>
+<g class="l6"><text x="28" y="194" xml:space="preserve"><tspan fill="#79c0ff">● </tspan><tspan fill="#79c0ff">Edit  </tspan><tspan fill="#e6edf3">status.js</tspan><tspan fill="#8b949e">  +42 −7</tspan></text></g>
+<g class="l7"><text x="28" y="220" xml:space="preserve"><tspan fill="#3fb950">● </tspan><tspan fill="#79c0ff">Bash  </tspan><tspan fill="#e6edf3">git commit -m &quot;clearer status line&quot;</tspan></text></g>
+<g class="l8"><text x="28" y="246" xml:space="preserve"><tspan fill="#3fb950">✓ Done </tspan><tspan fill="#e6edf3">2m14s</tspan><tspan fill="#8b949e">   ctx </tspan><tspan fill="#7ee787">38%</tspan><tspan fill="#8b949e">   cache </tspan><tspan fill="#79c0ff">97%</tspan><tspan fill="#8b949e">   </tspan><tspan fill="#e3b341">$0.42</tspan></text></g>
+<g class="pr"><text x="28" y="278"><tspan fill="#7ee787">$ </tspan></text><rect class="bl" x="46" y="265" width="9.0" height="18" fill="#e6edf3" opacity=".8"/></g>
+</svg>
